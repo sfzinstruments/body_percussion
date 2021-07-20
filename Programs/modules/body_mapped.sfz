@@ -1,0 +1,112 @@
+<group>
+key=$KEYBHEELL
+#include "mappings/body_heel_l.sfz"
+
+<group>
+key=$KEYBHEELR
+#include "mappings/body_heel_r.sfz"
+
+<group>
+key=$KEYBHLFSTMPL
+#include "mappings/body_halfstomp_l.sfz"
+
+<group>
+key=$KEYBHLFSTMPR
+#include "mappings/body_halfstomp_r.sfz"
+
+<group>
+key=$KEYBSTOMPL
+#include "mappings/body_stomp_l.sfz"
+
+<group>
+key=$KEYBSTOMPR
+#include "mappings/body_stomp_r.sfz"
+
+
+<group>
+key=$KEYBBLSIDEL
+#include "mappings/body_bellyside_l.sfz"
+
+<group>
+key=$KEYBBLSIDER
+#include "mappings/body_bellyside_r.sfz"
+
+<group>
+key=$KEYBBLCTRL
+#include "mappings/body_bellycenter_l.sfz"
+
+<group>
+key=$KEYBBLCTRR
+#include "mappings/body_bellycenter_r.sfz"
+
+<group>
+key=$KEYBCHSIDEL
+#include "mappings/body_chestside_l.sfz"
+
+<group>
+key=$KEYBCHSIDER
+#include "mappings/body_chestside_r.sfz"
+
+
+
+<group>
+key=$KEYBCHTHMPL
+#include "mappings/body_chestthump_l.sfz"
+
+
+
+<group>
+key=$KEYBSHOUTL
+#include "mappings/body_shoulderout_l.sfz"
+
+<group>
+key=$KEYBSHOUTR
+#include "mappings/body_shoulderout_r.sfz"
+
+
+
+
+
+<group>
+key=$KEYBHEAD
+#include "mappings/body_head.sfz"
+
+<group>
+key=$KEYBCKOUTL
+#include "mappings/body_cheek_lout.sfz"
+
+<group>
+key=$KEYBCKINL
+#include "mappings/body_cheek_lin.sfz"
+
+<group>
+key=$KEYBCKOUTR
+#include "mappings/body_cheek_rout.sfz"
+
+<group>
+key=$KEYBCKINR
+#include "mappings/body_cheek_rin.sfz"
+
+<group>
+key=$KEYBSNAPL
+#include "mappings/body_snap_l.sfz"
+
+<group>
+key=$KEYBSNAPR
+#include "mappings/body_snap_r.sfz"
+
+<group>
+key=$KEYBPSNAPL
+#include "mappings/body_pinkysnap_l.sfz"
+
+<group>
+key=$KEYBPSNAPR
+#include "mappings/body_pinkysnap_r.sfz"
+
+<group>
+key=$KEYBFCLAP
+#include "mappings/body_fingerclap.sfz"
+
+<group>
+key=$KEYBCLAP
+#include "mappings/body_handclap.sfz"
