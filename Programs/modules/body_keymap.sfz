@@ -1,0 +1,32 @@
+#define $KEYBHEELL 36
+#define $KEYBHEELR 37
+#define $KEYBHLFSTMPL 38
+#define $KEYBHLFSTMPR 39
+#define $KEYBSTOMPL 40
+#define $KEYBSTOMPR 41
+
+#define $KEYBBLSIDEL 42
+#define $KEYBBLSIDER 43
+#define $KEYBBLCTRL 44
+#define $KEYBBLCTRR 45
+
+#define $KEYBCHTHMPL 46
+#define $KEYBCHSIDEL 47
+#define $KEYBCHSIDER 48
+
+#define $KEYBSHOUTL 49
+#define $KEYBSHOUTR 50
+
+#define $KEYBHEAD 51
+
+#define $KEYBCKOUTL 52
+#define $KEYBCKINL 53
+#define $KEYBCKOUTR 54
+#define $KEYBCKINR 55
+
+#define $KEYBSNAPL 56
+#define $KEYBSNAPR 57
+#define $KEYBPSNAPL 58
+#define $KEYBPSNAPR 59
+#define $KEYBFCLAP 60
+#define $KEYBCLAP 61
