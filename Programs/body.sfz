@@ -1,0 +1,17 @@
+#include "modules/body_keymap.sfz"
+
+<control>
+label_cc31=Width
+label_cc41=Tune
+
+set_cc31=127
+set_cc41=63.5
+
+<global>
+loop_mode=one_shot
+width=0
+width_oncc31=100
+tune_cc41=1200
+tune_curvecc41=1
+
+#include "modules/body_mapped.sfz"
